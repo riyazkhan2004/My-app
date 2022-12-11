@@ -1,17 +1,15 @@
-import Header from"./CSS/Style_Crate.css"
-
-
-
-
+import HeaderComp from './Components/Top'
+import BgColor from './App.css'
+import PassageBox1 from './Components/Essentials';
 
 
 function App() {
   return (
-  
-  <div className="Header">
-  <h1>Hello World</h1>
-  </div>
-  
+
+    <body className='BgColor'>
+    <HeaderComp/>
+    <PassageBox1/>
+    </body>
   );
 }
 
