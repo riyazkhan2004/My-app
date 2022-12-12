@@ -1,15 +1,16 @@
 import HeaderComp from './Components/Top'
-import BgColor from './App.css'
-import PassageBox1 from './Components/Essentials';
+import {BgColor,Bg} from './App.css'
+import PassageBox from './Components/Essentials';
 
 
 function App() {
   return (
 
-    <body className='BgColor'>
+    <body className='Bg'>
     <HeaderComp/>
-    <PassageBox1/>
+    <PassageBox/>
     </body>
+
   );
 }
 

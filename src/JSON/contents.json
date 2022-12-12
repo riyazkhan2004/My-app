@@ -1,4 +1,15 @@
 {
-"about":"ABOUT",
-"content":"A passionate knowledge seeker, willing to excel at all circumstances and at all levels. The curiosity to learn new things and to face challenges day-to-day makes me feel firm and alive. Currently pursuing an internship at GeeksforGeeks as a Campus Ambassador and did an internship at Blubworld as a Video Editor. With these experiences in hand, I can with stand immense work pressure, meeting deadlines and satisfying the company needs effectively. Proficient in programming languages such as C++, C, Python and Javascript. Interested in Cloud Computing and related domains."
+"headings":["ABOUT","EDUCATION","TECHNICALSKILLS","EXPERIENCE","CERTIFICATIONS"],
+"aboutcontent":"A passionate knowledge seeker, willing to excel at all circumstances and at all levels. The curiosity to learn new things and to face challenges makes me feel firm and alive. Currently pursuing an internship at GeeksforGeeks as a Campus Ambassador and did an internship at Blubworld as a Video Editor. With these experiences in hand, I can with stand immense work pressure, meeting deadlines and satisfying the company needs effectively. Proficient in programming languages such as C++, C, Python and Javascript. Interested in Cloud Computing and related domains.",
+
+"educationcontent1":["Velammal Vidyalaya Viraganoor","Higher Secondary","2019-2021"],
+"educationcontent2":["Sethu Institute of Technology","Bachelor of Computer Science and Engineering","2021-2025"],
+"technicalskills":"TECHNICAL SKILLS",
+"technicalskillscontent":["languages: C, C++, Javascript, Python","Frameworks: React, React Native","Familiar with DevOps practice and Amazon Web Services"],
+
+"experiencecontent1":["Campus Ambassador","GeeksforGeeks · Internship","May 2022 - Present"],
+"experiencecontent2":["Video Editor","Blub World · Internship","Sep 2021 - Nov 2021"],
+"experiencecontent3":["Freelance Editor","Vox Box · Freelance","Mar 2021 - Apr 2021"]
+
+
 }
